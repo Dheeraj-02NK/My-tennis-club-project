@@ -15,4 +15,5 @@ __pycache__/
 temp/ 
 *.txt
 
-
+*.log
+!important.log 
