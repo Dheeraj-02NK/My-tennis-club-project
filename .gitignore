@@ -13,3 +13,6 @@ __pycache__/
 
 # Ignore temp folders
 temp/ 
+*.txt
+
+
